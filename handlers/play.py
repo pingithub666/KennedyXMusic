@@ -752,7 +752,7 @@ async def lol_cb(b, cb):
     keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/{UPDATES_CHANNEL}"),
+                    InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/xmoodseum"),
                     InlineKeyboardButton(text="ᴄʟᴏsᴇ", callback_data="closed")
                 ],
             ]
@@ -899,7 +899,7 @@ async def ytplay(_, message: Message):
     keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/{UPDATES_CHANNEL}"),
+                    InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/xmoodseum"),
                     InlineKeyboardButton(text="ᴄʟᴏsᴇ", callback_data="closed")
                 ],
             ]
