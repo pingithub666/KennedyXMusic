@@ -1,7 +1,7 @@
 """
 MIT License
-Copyright (C) 2021 KennedyXMusic
-This file is part of https://github.com/KennedyProject/KennedyXMusic
+Copyright (C) 2021 pinprivatemusicbot
+This file is part of https://github.com/pingithub666/pinprivatemusicbot
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -18,7 +18,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 """
-# Sena (@xgothboi)
+# Sena (@capriboyyyyyy)
 # Kalo ngedit jangan hapus credit ya meki
 # YAHAHA WAHYOE
 
